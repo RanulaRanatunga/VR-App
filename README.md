@@ -1,6 +1,6 @@
 # Virtual Reality App UI
 
-Flutter UI & API Data Fetching
+Flutter UI & Fetching API Data 
 
 
 ![](image/VR_App.png)
