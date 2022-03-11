@@ -1,4 +1,4 @@
-# Virtual Reality App UI
+# Virtual Reality App
 
 Flutter UI & Fetching API Data 
 
